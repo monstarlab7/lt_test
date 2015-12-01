@@ -1,6 +1,6 @@
 
 <?php
-$u=5;
+$u=4;
 for($i=1;$i<$u;$i++){
 echo "Hello!"}
 ?>
