@@ -1,5 +1,8 @@
 <?php
 $sum=0;
-for($i=1;$sum+=$i;$i++;){
-echo $sum;}
+$i=1;
+while($i<=100){
+$sum+=$i;$i++;
+}
+echo $sum
 ?>
