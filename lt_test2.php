@@ -4,12 +4,5 @@ $i=1;
 while($i<101){
 $sum+=$i;$i++;
 }
-//comment
-// addd
-<<<<<<< HEAD
-// add by lht
-=======
-// add from develop by lt
->>>>>>> develop
 echo $sum
 ?>
