@@ -6,5 +6,6 @@ $sum+=$i;$i++;
 }
 //comment
 // addd
+// add by lht
 echo $sum
 ?>
