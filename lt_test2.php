@@ -5,5 +5,6 @@ while($i<101){
 $sum+=$i;$i++;
 }
 //comment
+// addd
 echo $sum
 ?>
