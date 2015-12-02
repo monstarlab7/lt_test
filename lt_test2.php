@@ -6,6 +6,10 @@ $sum+=$i;$i++;
 }
 //comment
 // addd
+<<<<<<< HEAD
 // add by lht
+=======
+// add from develop by lt
+>>>>>>> develop
 echo $sum
 ?>
