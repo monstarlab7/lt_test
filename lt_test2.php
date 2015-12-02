@@ -1,7 +1,7 @@
 <?php
 $sum=0;
 $i=1;
-while($i<=91){
+while($i<=90){
 $sum+=$i;$i++;
 }
 echo $sum
